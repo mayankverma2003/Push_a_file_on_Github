@@ -1,0 +1,762 @@
+SIR@SIR-PC MINGW32 ~/Desktop
+$ uname
+MINGW32_NT-10.0-19043
+
+SIR@SIR-PC MINGW32 ~/Desktop
+$ ls
+ Antivirus/
+ Capture1.PNG
+'Django PWH'/
+ Documents/
+ EXCLE/
+'Free DVD Burner.lnk'*
+'HP v215b'/
+'Mayank - Chrome.lnk'*
+'Microsoft Teams.lnk'*
+ NOTES/
+'New Microsoft Office Access 2007 Database.accdb'
+'Provisional Admission Mail.JPG'
+'Python tutorials'/
+ Resources/
+'Visual Studio Code.lnk'*
+ Winamp.lnk*
+'Windows 10 Update Assistant.lnk'*
+'camera pics'/
+ desktop.ini
+'eOffer Content.html'
+'eOffer Content_files'/
+ econtent.html
+ econtent_files/
+'~$Doc1.docx'
+'~$plicationForm (1).docx'
+'~$way bill NEW.docx'
+
+SIR@SIR-PC MINGW32 ~/Desktop
+$ ls
+ Antivirus/
+ Capture1.PNG
+'Django PWH'/
+ Documents/
+ EXCLE/
+'Free DVD Burner.lnk'*
+'HP v215b'/
+'Mayank - Chrome.lnk'*
+'Microsoft Teams.lnk'*
+ NOTES/
+'New Microsoft Office Access 2007 Database.accdb'
+'Provisional Admission Mail.JPG'
+'Python tutorials'/
+ Resources/
+'Visual Studio Code.lnk'*
+ Winamp.lnk*
+'Windows 10 Update Assistant.lnk'*
+'camera pics'/
+ desktop.ini
+'eOffer Content.html'
+'eOffer Content_files'/
+ econtent.html
+ econtent_files/
+'~$Doc1.docx'
+'~$plicationForm (1).docx'
+'~$way bill NEW.docx'
+
+SIR@SIR-PC MINGW32 ~/Desktop
+$ pwd // present working directory
+/c/Users/SIR/Desktop
+
+SIR@SIR-PC MINGW32 ~/Desktop
+$ cd /
+
+SIR@SIR-PC MINGW32 /
+$ ls
+LICENSE.txt        dev/           mingw32/      unins000.exe*
+ReleaseNotes.html  etc/           proc/         unins000.msg
+bin/               git-bash.exe*  tmp/          usr/
+cmd/               git-cmd.exe*   unins000.dat
+
+SIR@SIR-PC MINGW32 /
+$ ls
+LICENSE.txt        dev/           mingw32/      unins000.exe*
+ReleaseNotes.html  etc/           proc/         unins000.msg
+bin/               git-bash.exe*  tmp/          usr/
+cmd/               git-cmd.exe*   unins000.dat
+
+SIR@SIR-PC MINGW32 /
+$ pwd
+/
+
+SIR@SIR-PC MINGW32 /
+$ cd bin
+
+SIR@SIR-PC MINGW32 /bin
+$ ls
+'[.exe'*                         msys-gobject-2.0-0.dll*
+ addgnupghome*                   msys-gpg-error-0.dll*
+ applygnupgdefaults*             msys-gssapi-3.dll*
+ arch.exe*                       msys-hcrypto-4.dll*
+ astextplain*                    msys-heimbase-1.dll*
+ autopoint*                      msys-heimntlm-0.dll*
+ awk.exe*                        msys-hogweed-6.dll*
+ b2sum.exe*                      msys-hx509-5.dll*
+ backup*                         msys-iconv-2.dll*
+ base32.exe*                     msys-idn2-0.dll*
+ base64.exe*                     msys-intl-8.dll*
+ basename.exe*                   msys-kafs-0.dll*
+ basenc.exe*                     msys-krb5-26.dll*
+ bash.exe*                       msys-ksba-8.dll*
+ bashbug*                        msys-lz4-1.dll*
+ bunzip2.exe*                    msys-lzma-5.dll*
+ bzcat.exe*                      msys-magic-1.dll*
+ bzcmp*                          msys-mpfr-6.dll*
+ bzdiff*                         msys-ncursesw6.dll*
+ bzegrep*                        msys-nettle-8.dll*
+ bzfgrep*                        msys-npth-0.dll*
+ bzgrep*                         msys-p11-kit-0.dll*
+ bzip2.exe*                      msys-pcre-1.dll*
+ bzip2recover.exe*               msys-perl5_34.dll*
+ bzless*                         msys-psl-5.dll*
+ bzmore*                         msys-readline8.dll*
+ c_rehash*                       msys-roken-18.dll*
+ captoinfo.exe*                  msys-sasl2-3.dll*
+ cat.exe*                        msys-serf-1-0.dll*
+ chattr.exe*                     msys-smartcols-1.dll*
+ chcon.exe*                      msys-sqlite3-0.dll*
+ chgrp.exe*                      msys-ssl-1.1.dll*
+ chmod.exe*                      msys-svn_client-1-0.dll*
+ chown.exe*                      msys-svn_delta-1-0.dll*
+ chroot.exe*                     msys-svn_diff-1-0.dll*
+ cksum.exe*                      msys-svn_fs-1-0.dll*
+ clear.exe*                      msys-svn_fs_fs-1-0.dll*
+ cmp.exe*                        msys-svn_fs_util-1-0.dll*
+ column.exe*                     msys-svn_fs_x-1-0.dll*
+ comm.exe*                       msys-svn_ra-1-0.dll*
+ core_perl/                      msys-svn_ra_local-1-0.dll*
+ cp.exe*                         msys-svn_ra_serf-1-0.dll*
+ csplit.exe*                     msys-svn_ra_svn-1-0.dll*
+ cut.exe*                        msys-svn_repos-1-0.dll*
+ cygcheck.exe*                   msys-svn_subr-1-0.dll*
+ cygpath.exe*                    msys-svn_swig_perl-1-0.dll*
+ cygwin-console-helper.exe*      msys-svn_wc-1-0.dll*
+ d2u.exe*                        msys-tasn1-6.dll*
+ dash.exe*                       msys-ticw6.dll*
+ date.exe*                       msys-unistring-2.dll*
+ dd.exe*                         msys-wind-0.dll*
+ df.exe*                         msys-z.dll*
+ diff.exe*                       mv.exe*
+ diff3.exe*                      nano.exe*
+ dir.exe*                        nettle-hash.exe*
+ dircolors.exe*                  nettle-lfib-stream.exe*
+ dirmngr-client.exe*             nettle-pbkdf2.exe*
+ dirmngr.exe*                    ngettext.exe*
+ dirname.exe*                    nice.exe*
+ docx2txt*                       nl.exe*
+ docx2txt.pl*                    nohup.exe*
+ dos2unix.exe*                   notepad*
+ du.exe*                         nproc.exe*
+ dumpsexp.exe*                   numfmt.exe*
+ echo.exe*                       od.exe*
+ egrep*                          openssl.exe*
+ env.exe*                        p11-kit.exe*
+ envsubst.exe*                   passwd.exe*
+ ex.exe*                         paste.exe*
+ expand.exe*                     patch.exe*
+ expr.exe*                       pathchk.exe*
+ factor.exe*                     perl.exe*
+ false.exe*                      perl5.34.0.exe*
+ fgrep*                          pinentry-w32.exe*
+ fido2-assert.exe*               pinentry.exe*
+ fido2-cred.exe*                 pinky.exe*
+ fido2-token.exe*                pkcs1-conv.exe*
+ file.exe*                       pldd.exe*
+ find.exe*                       pluginviewer.exe*
+ findssl.sh*                     pr.exe*
+ fmt.exe*                        printenv.exe*
+ fold.exe*                       printf.exe*
+ funzip.exe*                     ps.exe*
+ gapplication.exe*               psl-make-dafsa*
+ gawk-5.0.0.exe*                 psl.exe*
+ gawk.exe*                       ptx.exe*
+ gdbus.exe*                      pwd.exe*
+ gencat.exe*                     readlink.exe*
+ getconf.exe*                    realpath.exe*
+ getemojis*                      rebase.exe*
+ getfacl.exe*                    rebaseall*
+ getopt.exe*                     recode-sr-latin.exe*
+ gettext.exe*                    regtool.exe*
+ gettext.sh*                     reset.exe*
+ gettextize*                     restore*
+ gio-querymodules.exe*           rm.exe*
+ git-flow*                       rmdir.exe*
+ git-flow-bugfix                 rnano.exe*
+ git-flow-config                 runcon.exe*
+ git-flow-feature                rview.exe*
+ git-flow-hotfix                 rvim.exe*
+ git-flow-init                   scp.exe*
+ git-flow-log                    sdiff.exe*
+ git-flow-release                sed.exe*
+ git-flow-support                seq.exe*
+ git-flow-version                setfacl.exe*
+ gitflow-common                  setmetamode.exe*
+ gitflow-shFlags                 sexp-conv.exe*
+ gkill.exe*                      sftp.exe*
+ glib-compile-schemas.exe*       sh.exe*
+ gobject-query.exe*              sha1sum.exe*
+ gpg-agent.exe*                  sha224sum.exe*
+ gpg-connect-agent.exe*          sha256sum.exe*
+ gpg-error.exe*                  sha384sum.exe*
+ gpg-wks-server.exe*             sha512sum.exe*
+ gpg.exe*                        shred.exe*
+ gpgconf.exe*                    shuf.exe*
+ gpgparsemail.exe*               sleep.exe*
+ gpgscm.exe*                     sort.exe*
+ gpgsm.exe*                      split.exe*
+ gpgsplit.exe*                   ssh-add.exe*
+ gpgtar.exe*                     ssh-agent.exe*
+ gpgv.exe*                       ssh-copy-id*
+ grep.exe*                       ssh-keygen.exe*
+ groups.exe*                     ssh-keyscan.exe*
+ gsettings.exe*                  ssh-pageant.exe*
+ gunzip*                         ssh.exe*
+ gzexe*                          sshd.exe*
+ gzip.exe*                       ssp.exe*
+ head.exe*                       start*
+ hmac256.exe*                    stat.exe*
+ hostid.exe*                     strace.exe*
+ hostname.exe*                   stty.exe*
+ iconv.exe*                      sum.exe*
+ id.exe*                         sync.exe*
+ infocmp.exe*                    tabs.exe*
+ infotocap.exe*                  tac.exe*
+ install.exe*                    tail.exe*
+ join.exe*                       tar.exe*
+ kbxutil.exe*                    tee.exe*
+ kill.exe*                       test.exe*
+ ldd.exe*                        tic.exe*
+ ldh.exe*                        tig.exe*
+ less.exe*                       timeout.exe*
+ lessecho.exe*                   toe.exe*
+ lesskey.exe*                    touch.exe*
+ link.exe*                       tput.exe*
+ ln.exe*                         tr.exe*
+ locale.exe*                     true.exe*
+ locate.exe*                     truncate.exe*
+ logname.exe*                    trust.exe*
+ ls.exe*                         tset.exe*
+ lsattr.exe*                     tsort.exe*
+ mac2unix.exe*                   tty.exe*
+ md5sum.exe*                     tzset.exe*
+ minidumper.exe*                 u2d.exe*
+ mintheme*                       umount.exe*
+ mintty.exe*                     uname.exe*
+ mkdir.exe*                      uncompress*
+ mkfifo.exe*                     unexpand.exe*
+ mkgroup.exe*                    uniq.exe*
+ mknod.exe*                      unix2dos.exe*
+ mkpasswd.exe*                   unix2mac.exe*
+ mktemp.exe*                     unlink.exe*
+ mount.exe*                      unzip.exe*
+ mpicalc.exe*                    unzipsfx.exe*
+ msgattrib.exe*                  update-ca-trust*
+ msgcat.exe*                     updatedb*
+ msgcmp.exe*                     users.exe*
+ msgcomm.exe*                    vdir.exe*
+ msgconv.exe*                    vendor_perl/
+ msgen.exe*                      vi*
+ msgexec.exe*                    view.exe*
+ msgfilter.exe*                  vim.exe*
+ msgfmt.exe*                     vimdiff.exe*
+ msggrep.exe*                    vimtutor*
+ msginit.exe*                    watchgnupg.exe*
+ msgmerge.exe*                   wc.exe*
+ msgunfmt.exe*                   which.exe*
+ msguniq.exe*                    who.exe*
+ msys-2.0.dll*                   whoami.exe*
+ msys-apr-1-0.dll*               winpty-agent.exe*
+ msys-aprutil-1-0.dll*           winpty-debugserver.exe*
+ msys-asn1-8.dll*                winpty.dll*
+ msys-assuan-0.dll*              winpty.exe*
+ msys-bz2-1.dll*                 wordpad*
+ msys-cbor-0.8.dll*              xargs.exe*
+ msys-com_err-1.dll*             xgettext.exe*
+ msys-crypt-0.dll*               xxd.exe*
+ msys-crypto-1.1.dll*            yat2m.exe*
+ msys-edit-0.dll*                yes.exe*
+ msys-expat-1.dll*               zcat*
+ msys-ffi-7.dll*                 zcmp*
+ msys-fido2-1.dll*               zdiff*
+ msys-gcc_s-1.dll*               zegrep*
+ msys-gcrypt-20.dll*             zfgrep*
+ msys-gettextlib-0-19-8-1.dll*   zforce*
+ msys-gettextsrc-0-19-8-1.dll*   zgrep*
+ msys-gio-2.0-0.dll*             zipgrep*
+ msys-glib-2.0-0.dll*            zipinfo.exe*
+ msys-gmodule-2.0-0.dll*         zless*
+ msys-gmp-10.dll*                zmore*
+ msys-gnutls-30.dll*             znew*
+
+SIR@SIR-PC MINGW32 /bin
+$ pwd
+/bin
+
+SIR@SIR-PC MINGW32 /bin
+$ cd ..
+
+SIR@SIR-PC MINGW32 /
+$ pwd
+/
+
+SIR@SIR-PC MINGW32 /
+$ cd ..
+
+SIR@SIR-PC MINGW32 /
+$ pwd
+/
+
+SIR@SIR-PC MINGW32 /
+$ cd ..
+
+SIR@SIR-PC MINGW32 /
+$ pwd
+/
+
+SIR@SIR-PC MINGW32 /
+$ cd
+
+SIR@SIR-PC MINGW32 ~
+$ pwd
+/c/Users/SIR
+
+SIR@SIR-PC MINGW32 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{7f091778-1b9c-11eb-94d1-f9240bef1c46}.TM.blf
+ NTUSER.DAT{7f091778-1b9c-11eb-94d1-f9240bef1c46}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{7f091778-1b9c-11eb-94d1-f9240bef1c46}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ PycharmProjects/
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ venv/
+
+SIR@SIR-PC MINGW32 ~
+$ cd Desktop/
+
+SIR@SIR-PC MINGW32 ~/Desktop
+$ pwd
+/c/Users/SIR/Desktop
+
+SIR@SIR-PC MINGW32 ~/Desktop
+$ mkdir test_file
+
+SIR@SIR-PC MINGW32 ~/Desktop
+$ pwd
+/c/Users/SIR/Desktop
+
+SIR@SIR-PC MINGW32 ~/Desktop
+$ cd test_file/
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ pwd
+/c/Users/SIR/Desktop/test_file
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ mkdir hello
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ touch 1.txt
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ touch 2.txt
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ mv 1.txt hello/
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ cp 2.txt hello/
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ pwd
+/c/Users/SIR/Desktop/test_file
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ touch 56.txt
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ cp /c/Users/SIR/Desktop/test_file/56.txt /c/Users/SIR/Desktop/test_file/hello/
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ pwd
+/c/Users/SIR/Desktop/test_file
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ ls
+2.txt  56.txt  hello/
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ ls -R
+.:
+2.txt  56.txt  hello/
+
+./hello:
+1.txt  2.txt  56.txt
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ pwd
+/c/Users/SIR/Desktop/test_file
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ touch .mayank
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ ls
+2.txt  56.txt  hello/
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ ls -a
+./  ../  .mayank  2.txt  56.txt  hello/
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ history
+    1  git config --global user.name Mayank
+    2  git config --global user.email vmayank837@gmail.com
+    3  git config --global user.email
+    4  git config --global user.name
+    5  code .
+    6  git init
+    7  git status
+    8  git add index.html
+    9  git status
+   10  git commit
+   11  git status
+   12  touch about.html
+   13  touch contact.html
+   14  monuments.html
+   15  touch monuments.html
+   16  git status
+   17  git add -A
+   18  git status
+   19  git status
+   20  git status
+   21  git add -A
+   22  git status
+   23  git commit -m "Added more htmls"
+   24  git status
+   25  clear
+   26  git status
+   27  git status
+   28  git checkout contact.html
+   29  git status
+   30  git status
+   31  git checkout -f
+   32  git status
+   33  git log
+   34  clear
+   35  git log -p -1
+   36  git log -p -1
+   37  git status
+   38  git diff
+   39  git add index.html
+   40  git status
+   41  git add -A
+   42  git status
+   43  git diff
+   44  git diff
+   45  clear
+   46  git status
+   47  git diff
+   48  git add -A
+   49  git diff
+   50  git diff --staged
+   51  git status
+   52  git checkout -f
+   53  git status
+   54  git status
+   55  git status
+   56  git commit -a -m "Skipped staging area and fixed <"
+   57  git log
+   58  git diff --staged
+   59  git checkout -f
+   60  git commit --staged
+   61  git status
+   62  git add -A
+   63  git status
+   64  git diff --staged
+   65  git commit index.html
+   66  git status
+   67  ls
+   68  clear
+   69  git remote add origin https://github.com/mayankverma2003/Git-tutorial.git
+   70  git remote
+   71  git remote -v
+   72  git push origin master
+   73  git remote add origin https://github.com/mayankverma2003/Git-tutorial.git
+   74  git push origin main
+   75  clear
+   76  touch waste.html
+   77  ls
+   78  git add -A
+   79  git commit -a -m "Adding waste"
+   80  ls
+   81  git rm --cached waste.html
+   82  git status
+   83  git add -A
+   84  git status
+   85  git rm waste.html
+   86  git status
+   87  ls
+   88  git commit -a -m "Removing waste"
+   89  git log -p -2
+   90  git status
+   91  git status -s
+   92  git status -s
+   93  git add about.html
+   94  git status -s
+   95  git status -s
+   96  git checkout index.html
+   97  git checkout index.html
+   98  git checkout about.html
+   99  git checkout contact.html
+  100  touch .gitignore
+  101  touch mylogs.log
+  102  clear
+  103  git status
+  104  git rm mylogs.log
+  105  git rm .gitignore
+  106  git status
+  107  git add about.html
+  108  git status
+  109  git commit about.html
+  110  git status
+  111  git branch feature1
+  112  git brach
+  113  git branch
+  114  git checkout feature1
+  115  git status
+  116  git checkout about.html
+  117  git add about.html
+  118  git commit about.html
+  119  git status
+  120  git status
+  121  git status
+  122  get checkout master
+  123  git checkout about.html
+  124  git status
+  125  git add -A
+  126  git commit -m "Gave title to the website"
+  127  git status
+  128  git checkout master
+  129  git checkout feature1
+  130  git commit -a -m "Added comment"
+  131  git status
+  132  git checkout master
+  133  git status
+  134  git log -p -2
+  135  git merge feature1
+  136  git checkout master
+  137  clera
+  138  clear
+  139  git remote add origin https://github.com/mayankverma2003/Git-tutorial.git
+  140  git remote origin
+  141  git remote
+  142  git remote -v
+  143  git push origin master
+  144  git sttus
+  145  git status
+  146  ssh-keygen -t ed25519 -C "vmayank837@gmail.com"
+  147  eval "$(ssh-agent -s)"
+  148  ssh-add ~/.ssh/id_ed25519
+  149  cat ~/.ssh/id_ed25519.pub
+  150  git remote set-url origin git@github.com:mayankverma2003/Git-tutorial.git
+  151  git remote
+  152  git remote -v
+  153  git push -u origin master
+  154  git checkout feature1
+  155  git push -u origin feature1
+  156  git clone https://github.com/juanchopanza/cppblog.git Clone
+  157  ls
+  158  git checkout -b 14219
+  159  code .
+  160  git status
+  161  git clone git@github.com:mayankverma2003/URL-Shortener.git
+  162  code .
+  163  npm start
+  164  apt-get install -y npm
+  165  yum install nodejs npm -y
+  166  npm i
+  167  code .
+  168  git clone https://github.com/Divyansh013/Todo-JS.git
+  169  code .
+  170  git clone git@github.com:mayankverma2003/URL-Shortener.git
+  171  git config --global user.name
+  172  git config --global user.email
+  173  git init
+  174  git add .
+  175  git commit -m "Initial Commit"
+  176  git status
+  177  git remote add origin git@github.com:mayankverma2003/Ice_Cream-Website-Python-.git
+  178  git push origin master
+  179  git config --global user.name
+  180  git config --global user.email
+  181  git config --global user.name "Mayank Verma"
+  182  git config --global user.email "mayank.verma.cse21@itbhu.ac.in"
+  183  git config --global user.name
+  184  git config --global user.email
+  185  touch .gitignore
+  186  git init
+  187  git add .
+  188  git commit -m "Initial Commit"
+  189  git status
+  190  git remote add origin git@github.com:mayankverma2003/Snake_Apple_Game-Python-.git
+  191  git push origin master
+  192  uname
+  193  ls
+  194  ls
+  195  pwd
+  196  cd /
+  197  ls
+  198  ls
+  199  pwd
+  200  cd bin
+  201  ls
+  202  pwd
+  203  cd ..
+  204  pwd
+  205  cd ..
+  206  pwd
+  207  cd ..
+  208  pwd
+  209  cd
+  210  pwd
+  211  ls
+  212  cd Desktop/
+  213  pwd
+  214  mkdir test_file
+  215  pwd
+  216  cd test_file/
+  217  pwd
+  218  mkdir hello
+  219  touch 1.txt
+  220  touch 2.txt
+  221  mv 1.txt hello/
+  222  cp 2.txt hello/
+  223  pwd
+  224  touch 56.txt
+  225  cp /c/Users/SIR/Desktop/test_file/56.txt /c/Users/SIR/Desktop/test_file/hello/
+  226  pwd
+  227  ls
+  228  ls -R
+  229  pwd
+  230  touch .mayank
+  231  ls
+  232  ls -a
+  233  history
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ echo Mayank
+Mayank
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ printf "This is a ball..."
+This is a ball...
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ printf "This is a ball...\n"
+This is a ball...
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ ls -l
+total 0
+-rw-r--r-- 1 SIR 197121 0 Apr 20 17:04 2.txt
+-rw-r--r-- 1 SIR 197121 0 Apr 20 17:09 56.txt
+drwxr-xr-x 1 SIR 197121 0 Apr 20 17:13 hello/
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ pwd
+/c/Users/SIR/Desktop/test_file
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ ls
+2.txt  56.txt  hello/
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ chmod 734 2.txt // get the value from 'chmod calculator' according to restrictions
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ ls -l
+total 0
+-rw-r--r-- 1 SIR 197121 0 Apr 20 17:04 2.txt
+-rw-r--r-- 1 SIR 197121 0 Apr 20 17:09 56.txt
+drwxr-xr-x 1 SIR 197121 0 Apr 20 17:13 hello/
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ top
+bash: top: command not found\
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ ps // describes the currently opened files which are consuming RAM
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1646    1645    1646       4196  pty0      197608 16:12:42 /usr/bin/bash
+     1847    1646    1847        636  pty0      197608 18:26:51 /usr/bin/ps
+     1645       1    1645       8612  ?         197608 16:12:41 /usr/bin/mintty
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ ps -a
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1646    1645    1646       4196  pty0      197608 16:12:42 /usr/bin/bash
+     1645       1    1645       8612  ?         197608 16:12:41 /usr/bin/mintty
+     1851    1646    1851       4208  pty0      197608 18:27:53 /usr/bin/ps
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ kill 1646
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ ps
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1646    1645    1646       4196  pty0      197608 16:12:42 /usr/bin/bash
+     1858    1646    1858       8088  pty0      197608 18:32:16 /usr/bin/ps
+     1645       1    1645       8612  ?         197608 16:12:41 /usr/bin/mintty
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ pwd
+/c/Users/SIR/Desktop/test_file
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ ls
+2.txt  56.txt  hello/
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ vim 2.txt // opens the blank file 2.txt with a vim editer(it is a text editor)
+
+// to start writing text in vim editor first press 'i' to enter into insert mode
+// after completing the text work either close and save the file by pressing esc and :wq OR
+// close without saving the file by pressing esc and :q! 
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$ vim 2.txt
+
+SIR@SIR-PC MINGW32 ~/Desktop/test_file
+$
